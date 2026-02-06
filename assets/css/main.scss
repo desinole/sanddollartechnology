@@ -1,3 +1,8 @@
 ---
-@import "sass/main";
 ---
+
+@import "variables";
+@import "base";
+@import "layout";
+@import "components";
+@import "utilities";
